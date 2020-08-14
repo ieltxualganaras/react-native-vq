@@ -6,6 +6,8 @@ import {TextInput} from '../../common/inputs';
 import {RoundedButton} from '../../common/buttons';
 
 const RegisterScreen = ({navigation}) => {
+  const registrar = () => {};
+
   return (
     <View style={styles.container}>
       <View style={styles.form}>

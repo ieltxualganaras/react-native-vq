@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`tiene el botos "REGISTRARME" 1`] = `
+exports[`tiene el boton "REGISTRARME" 1`] = `
 <View
   style={
     Object {

@@ -9,7 +9,7 @@ it('renders correctly', () => {
   renderer.create(<RegisterScreen />);
 });
 
-it('tiene el botos "REGISTRARME"', () => {
+it('tiene el boton "REGISTRARME"', () => {
   const tree = renderer.create(<RegisterScreen />);
   expect(tree).toMatchSnapshot();
 });
