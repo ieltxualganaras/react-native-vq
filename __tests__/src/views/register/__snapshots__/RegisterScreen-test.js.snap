@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tiene el botos "REGISTRARME" 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "width": "70%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7DD7F1",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Nombre
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        label="Nombre"
+        onChangeText={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "borderBottomColor": "#7DD7F1",
+            "borderBottomWidth": 1,
+            "fontSize": 20,
+            "height": 40,
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7DD7F1",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Apellido
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        label="Apellido"
+        onChangeText={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "borderBottomColor": "#7DD7F1",
+            "borderBottomWidth": 1,
+            "fontSize": 20,
+            "height": 40,
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7DD7F1",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Email
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        label="Email"
+        onChangeText={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "borderBottomColor": "#7DD7F1",
+            "borderBottomWidth": 1,
+            "fontSize": 20,
+            "height": 40,
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7DD7F1",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Password
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        label="Password"
+        onChangeText={[Function]}
+        rejectResponderTermination={true}
+        secureTextEntry={true}
+        style={
+          Object {
+            "borderBottomColor": "#7DD7F1",
+            "borderBottomWidth": 1,
+            "fontSize": 20,
+            "height": 40,
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F77027",
+          "borderRadius": 30,
+          "height": 60,
+          "justifyContent": "center",
+          "opacity": 1,
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 20,
+          }
+        }
+      >
+        REGISTRARME
+      </Text>
+    </View>
+  </View>
+</View>
+`;
